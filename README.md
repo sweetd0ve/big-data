@@ -1,2 +1,2 @@
 # big-data
-HSE big data course
+big data course
